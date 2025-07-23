@@ -38,7 +38,7 @@ A beautiful, animated Movie app built with Flutter. The app allows users to sear
 
 This project follows the **MVVM (Model-View-ViewModel)** pattern with **GetX** for state management and routing.
 
-### ➕ Benefits of MVVM in this Project
+### ➕ Used of MVVM in this Project
 
 - Clean separation of concerns
 - Scalable and testable codebase
